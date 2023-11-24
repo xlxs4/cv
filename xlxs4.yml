@@ -18,26 +18,64 @@ personal:
 work:
   - organization: Aristotle University of Thessaloniki
     position: Research Software Engineer
-    url: https://example.com
+    url: https://emtech.global/hsd-historic
     location: Remote
-    startDate: 2021-08-01
-    endDate: 2023-10-10
+    startDate: 2023-03-01
+    endDate: present
+    summary: "Project between European Space Agency, companies & universities consortium, Greek Navy.
+    
+    Nanosatellite constellation, inter-satellite optical communication and earth observation."
     highlights:
-      - This being the theory I hold, why need I be afraid of not being able to reconcile it with the case of my ancestors?
-      - "The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
-      - Do you really believe that they charged an armed enemy, or treated their children, their own flesh and blood, so cruelly, without a thought for their own interest or advantage?
+      - Designed and implemented high fidelity models for attitude control, simulator interface across domains
+      - Designed and implemented high fidelity software for in-orbit power generation, verified against industry standard
 
 experience:
-  - organization: Aristotle University of Thessaloniki
-    position: Research Software Engineer
-    url: https://example.com
-    location: Remote
-    startDate: 2021-08-01
-    endDate: 2023-10-10
+  - organization: SpaceDot
+    position: Science Lead
+    url: https://acubesat.spacedot.gr
+    location: Thessaloniki, Greece
+    startDate: 2022-03-01
+    endDate: present
+    summary: "Project in collaboration with the European Space Agency (ESA), team of 70+ members across the EU.
+    
+    Nanosatellite to probe the combined effects of microgravity and cosmic radiation on 100+ genetically engineered eukaryotic cell strains. The organisms will grow in-orbit inside a miniaturized lab-on-a-chip."
     highlights:
-      - This being the theory I hold, why need I be afraid of not being able to reconcile it with the case of my ancestors?
-      - "The wise man therefore always holds in these matters to this principle of selection: he rejects pleasures to secure other greater pleasures, or else he endures pains to avoid worse pains."
-      - Do you really believe that they charged an armed enemy, or treated their children, their own flesh and blood, so cruelly, without a thought for their own interest or advantage?
+      - "Leading a 25 member team of interdisciplinary scientists and engineers to realize a Space Biology mission 5 years in the making"
+  - organization: SpaceDot
+    position: Research Software Engineer
+    url: https://acubesat.spacedot.gr
+    location: Thessaloniki, Greece
+    startDate: 2020-03-01
+    endDate: 2022-03-01
+    summary:
+    highlights:
+      - Designed and implemented Gene Expression Analysis pipelines
+      - Implemented on-board compression sceheme for data downlink
+      - Designed a microfluidic Lab-on-a-Chip for multiplexed cell culturing in collaboration with EPFL (LBNC)
+      - Designed a miniaturized imaging system for fluorescence imaging
+  - organization: SpaceDot
+    position: Software Engineer
+    url: https://acubesat.spacedot.gr
+    location: Thessaloniki, Greece
+    startDate: 2019-04-01
+    endDate: 2020-03-01
+    summary:
+    highlights:
+      - Wrote mission-critical, performant C++ to be run on-board
+      - Set up containerized CI/CD pipelines for deployment and code verification
+      - Set up pipelines for fuzzy testing and abstract interpretation static analyzers
+      - Designed the system architecture (MCU scheme, filesystem, OS, communication protocols, etc.)
+      - Worked with non-SEs in modeling and simulation of attitude control and determination, trajectory & spacecraft communication domains
+  - organization: GFOSS
+    position: Software Engineer
+    url: https://gfoss.eu
+    location: Thessaloniki, Greece
+    startDate: 2018-10-01
+    endDate: 2029-06-01
+    summary: 'GFOSS is the largest FOSS organization in Greece. I was selected as a member of its "Unit of Excellence",
+    
+    a team of students for member universities'
+    highlights:
 
 education:
   - institution: Aristotle University of Thessaloniki
@@ -47,127 +85,71 @@ education:
     startDate: 2019-10-10
     endDate: 2024-06-30
     location: Thessaloniki, Greece
-    honors:
-      - 4.0 / 4.0 GPA
-      - President's List
-      - Dean's List
     courses:
-      - Algorithms & Data Structures
-      - Applications in Quantitative Finance
-      - Engineering Data Analysis
-      - Compiler Architecture
     highlights:
-      - "*Thesis*: A convolutional neural network for predicting Greenland glacier melt and glacial water flow"
-      - "*Activites*: Debating, Chess, Cricket"
+      - "*Minors*: Scientific Computing, Artificial Intelligence"
 
-affiliations:
-
-awards:
-  - title: Champion in the Division A District X Speech Evaluation Contest
-    date: 2023-05-09
-    issuer: Toastmasters International
+conferences:
+  - title: European CubeSat Symposium 2023 (upcoming)
+    date: 2023-12-01
+    subject: "AcubeSAT: Advancing Space Biology Research Through CubeSat Technology"
     url: ""
-    location: City of London, United Kingdom
+    location: Leuven, Belgium
     highlights:
-      # - Champion in the Division A District X Speech Evaluation Contest of Toastmasters International in London.
-  - title: "Finalist in the 2020 SCG Bangkok Business Challenge Global Competition"
-    date: 2020-07-12
-    issuer: Sasin School of Management
+  - title: JuliaCon Local Eindhoven 2023
+    date: 2023-12-01
+    subject: "AOCS Simulations with Julia: Insights from the Hellenic Space Dawn Mission"
     url: ""
-    location: Bangkok, Thailand
+    location: Eindhoven, Nerthelands
     highlights:
-      - "Made it to the Top 5 (selected from over 100 teams) in the world for the semi-finals of the SCG Bangkok Business Challenge #sym.at Sasin 2020 Global Competition held at Bangkok, Thailand from July 7-12, 2020."
-      - "Served as the speaker and presented in the 60-second pitch round of the Opening Reception of the SCG Bangkok Business Challenge #sym.at Sasin 2022 for Team London Bridge."
-
-certificates:
-  - name: "Learning How to Learn: Powerful mental tools to help you master tough subjects"
-    date: 2021-09-01
-    issuer: Coursera
-    url: https://example.com
-
-publications:
-  - name: A convolutional neural network for predicting Greenland glacier melt and glacial water flow
-    publisher: Theoretical and Computational Fluid Dynamics
-    releaseDate: 2020-09-30
-    url: https://example.com
-
-projects:
-  - name: "Job Tailor"
-    url: https://example.com/
-    affiliation: Open University
-    startDate: 2020-11-01
-    endDate: 2021-04-30
+  - title: European Space Thermal Engineering Workshop 2023
+    date: 2023-10-01
+    subject: "Thermal control design for AcubeSAT's biological experiment and proposed model correlation method"
+    url: ""
+    location: Amsterdam, Netherlands
     highlights:
-      - Created an AI-powered resume editor application that allowed users to easily create different resumes and cover letters specifically tailored to and customized for individual job descriptions based on their personal information in their complete curriculum vitae.
-      - Acquired more than 100,000 user sign ups in 3 months and more than 10,000 active monthly users in its lifetime before being sold to investors.
-      - Generated profit of upwards \$20,000 yearly with a team of only four developers and three business operatives
+  - title: JuliaCon 2023
+    date: 2023-07-01
+    subject:
+    url: ""
+    location: Boston, MA, USA
+    highlights:
+  - title: European Lisp Symposium 2023
+    date: 2023-04-01
+    subject:
+    url: ""
+    location: Amsterdam, Netherlands
+    highlights:
 
 skills:
-  - category: Soft Skills
+  - category: Programming Languages
     skills:
-      - Public Speaking
-      - Debating
-      - Communication
-      - Critical Thinking
-      - Leadership
-      - Persuasive Writing
-      - Technical Writing
-  - category: Programming
-    skills:
+      - Julia
+      - C++
       - Python
-      - SQL, PostgreSQL
-      - MATLAB/Octave
-      - HTML
-      - CSS
-      - Javascript
-      - Typst
-      - LaTeX
+      - C
+      - Java
+      - R
+      - Shell
   - category: Tools
     skills:
-      - Microsoft Word
       - Git
       - Docker
-      - Visual Studio Code
-      - Canva
-  - category: Web Development
+      - CI/CD (various)
+  - category: Soft Skills
     skills:
-      - React
-      - Next.js
-      - million.js
-      - Svelte & Sveltekit
-      - Tailwind CSS
-      - Node.js
-      - Deno
-      - FastAPI
-      - Flask
-  - category: BI & Data Analytics
-    skills:
-      - Microsoft Excel
-      - Microsoft Power BI
-      - Jupyter Notebook
-      - Numpy
-      - Pandas
-      - Plotly
-      - Altair
+      - Leadership
+      - Technical Writing
 
 languages:
   - language: English
-    fluency: Native speaker
-  - language: German
-    fluency: Native speaker
-  - language: Japanese
-    fluency: Basic proficiency
+    fluency: Bilingual
+  - language: Greek
+    fluency: Native
 
 interests:
-  - Video Games
-  - Anime
-  - Reading Non-fiction
-  - Classical and Original Soundtrack Music
+  - Cooking
+  - Dungeons & Dragons
+  - Piano
+  - Brazilian Jiu Jitsu
 
-references:
-  # You can comment out the entries below if you don't have any references
-  # The same goes for the publications
-
-  - name: Dr. Jane Austin
-    reference: John was a great student. He was always eager to learn new things and was very passionate about his studies. As his mentor, I am proud to say that he was also a great leader and was able to lead his team to victory in the 2020 SCG Bangkok Business Challenge Global Competition.
-    url: https://janeaustin.com
