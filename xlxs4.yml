@@ -3,7 +3,7 @@
 personal:
   name: Orestis Ousoultzoglou
   email: orousoultzoglou@gmail.com
-  phone: (+30) 6982 022 205
+  phone: "+306982022205"
   url: https://xlxs4.com
   location:
     city: Thessaloniki
@@ -11,12 +11,26 @@ personal:
     postalCode: 54639
     country: Greece
   profiles:
+    - network: LinkedIn
+      username: Orestis Ousoultzoglou
+      url: https://linkedin.com/in/orestis-ousoultzoglou/
     - network: GitHub
       username: xlxs4
       url: https://github.com/xlxs4
 
 work:
-  - organization: Aristotle University of Thessaloniki
+  - organization: Democritus University of Thrace - DUTHSat-2
+    position: Research Software Engineer
+    url: "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_backs_Greek_firms_and_universities_CubeSats"
+    location: Remote
+    startDate: 2023-12-01
+    endDate: present
+    summary: "Project between European Space Agency, companies & universities consortium.
+    
+    Nanosatellite mission to detect oil slicks and marine contamination, and monitor agriculture through soil moisture detection."
+    highlights:
+      - Designed and implemented high fidelity models for attitude control, simulator interface across domains
+  - organization: Aristotle University of Thessaloniki - Hellenic Space Dawn
     position: Research Software Engineer
     url: https://emtech.global/hsd-historic
     location: Remote
@@ -90,7 +104,7 @@ education:
       - "*Minors*: Scientific Computing, Artificial Intelligence"
 
 conferences:
-  - title: European CubeSat Symposium 2023 (upcoming)
+  - title: European CubeSat Symposium 2023 (withdrawn)
     date: 2023-12-01
     subject: "AcubeSAT: Advancing Space Biology Research Through CubeSat Technology"
     url: ""
