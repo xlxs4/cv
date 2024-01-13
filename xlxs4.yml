@@ -19,6 +19,14 @@ personal:
       url: https://github.com/xlxs4
 
 work:
+  - organization: EMTech Space
+    position: Research Software Engineer
+    url: "https://emtech.global"
+    location: Hybrid
+    startDate: "2024-01-01"
+    endDate: present
+    summary:
+    highlights:
   - organization: Democritus University of Thrace - DUTHSat-2
     position: Research Software Engineer
     url: "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/ESA_backs_Greek_firms_and_universities_CubeSats"
